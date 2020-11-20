@@ -19,12 +19,18 @@
     "title": "Lost in the Light",
     "artist": "Bahamas",
     "releaseDate": "2017",
-    "lyricsFile": "wrong-file.txt"
+    "lyricsFile": "lost-in-the-light.txt"
   },
   {
     "id": 4,
     "title": "Wait for the Moment",
     "artist": "Vulfpeck",
     "releaseDate": "2017"
+  },
+  {
+    "id": 5,
+    "title": "Meet in the Middle",
+    "artist": "Diamond Rio",
+    "releaseDate": "1996"
   }
 ]
